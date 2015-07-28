@@ -1,2 +1,2 @@
 # pure-eigens
-No libraries/dependencies, pure python math for PCA (principle component analysis). 
+Working through every step of PCA 
